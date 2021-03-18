@@ -28,9 +28,10 @@
 
 ### Atividades recentes
 <!--START_SECTION:activity-->
-    
+
 
 <!--END_SECTION:activity-->
+
 
 <img align="left" alt="dansf GitHub Stats" src="https://dansf.vercel.app
 /api?username=dansf&show_icons=true&hide_border=true" />
