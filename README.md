@@ -28,6 +28,11 @@
 
 ### Atividades recentes
 <!--START_SECTION:activity-->
+🎉 Merged PR #138 in docsifyjs/docsify-cli
+🎉 Merged PR #137 in docsifyjs/docsify-cli
+💪 Opened PR #4733 in webpack/webpack.js.org
+💪 Opened PR #137 in docsifyjs/docsify-cli
+🎉 Merged PR #37 in hoppscotch/hopp-doc-gen
 
 <!--END_SECTION:activity-->
 <br/>
@@ -37,8 +42,6 @@
 <a href="https://github.com/dansf">
     <img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=dansf&hide=C&exclude_repo=Kernel,dragontc,Whyred&langs_count=6&layout=compact" />
 </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techphil)
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
 [link]: https://github.com/dansf?tab=repositories
