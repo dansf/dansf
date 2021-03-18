@@ -32,8 +32,7 @@
 <br/>
 
 ### Status
-<img align="left" alt="dansf GitHub Stats" src="https://dansf.vercel.app
-/api?username=dansf&show_icons=true&hide_border=true" />
+<img align="left" alt="dansf GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dansf&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
 [link]: https://github.com/dansf?tab=repositories
