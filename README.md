@@ -25,10 +25,8 @@
 <br />
 <br />
 
-<details>
-  ### 🤓 GitHub Status
-  <img align="left" alt="dansf GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dansf&show_icons=true&hide_border=true" />
-
-</details>
+### 🤓 GitHub Status
+  
+<img align="left" alt="dansf GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dansf&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
