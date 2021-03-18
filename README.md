@@ -3,7 +3,7 @@
 ## Sou aprendiz, Desenvolvedor, e apaixonado por tecnologia!!
 
 - 🌱 Estou sempre aprendendo
-- 🖖 Quero colaborar ao máximo de projetos que eu puder, apesar de ser iniciante 😌
+- 🖖 Quero colaborar ao máximo de projetos que eu puder, apesar de ser iniciante 🤓
 - 🔥 2021 Objetivos: Aprender cada vez mais sobre programação e desenvolvimento Web
 
 ### Fale comigo:
@@ -25,7 +25,6 @@
 <br />
 <br />
 
-### 🤓 GitHub Status
 <img align="left" alt="dansf GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dansf&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
