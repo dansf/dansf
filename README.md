@@ -6,12 +6,6 @@
 - 🖖 Quero colaborar ao máximo de projetos que eu puder, apesar de ser iniciante 🤓
 - 🔥 2021 Objetivos: Aprender cada vez mais sobre programação e desenvolvimento Web
 
-### Fale comigo:
-
-[<img align="left" alt="dansf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br/>
-
 ### Linguagens e ferramentas (aprendendo):
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][link]
@@ -23,16 +17,16 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][link]
 
 <br/>
+
+### Fale comigo:
+
+[<img align="left" alt="dansf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/>
 <br/>
 <br/>
 
 ### Atividades recentes
 <!--START_SECTION:activity-->
-🎉 Merged PR #138 in docsifyjs/docsify-cli
-🎉 Merged PR #137 in docsifyjs/docsify-cli
-💪 Opened PR #4733 in webpack/webpack.js.org
-💪 Opened PR #137 in docsifyjs/docsify-cli
-🎉 Merged PR #37 in hoppscotch/hopp-doc-gen
 
 <!--END_SECTION:activity-->
 <br/>
