@@ -28,10 +28,10 @@
 
 ### Atividades recentes
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 <br/>
 
-### Status
 <img align="left" alt="dansf GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dansf&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
