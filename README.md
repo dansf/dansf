@@ -10,7 +10,7 @@
 
 [![VSCODE](https://img.shields.io/badge/VsCode-0078D4?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=0078D4)][link] [![HTML](https://img.shields.io/badge/-HTML-D87C0D?style=for-the-badge&labelColor=black&logo=html5&logoColor=D87C0D)][link] [![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link] [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=CC6699&logo=sass&logoColor=CC6699)][link] [![EcmaJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)][link] [![JAVA](https://img.shields.io/badge/Java-EE160B?style=for-the-badge&labelColor=black&logo=java&logoColor=EE160B)][link] [![AnsiC](https://img.shields.io/badge/Ansi%20C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)][link] 
 
-[![CSHARP](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&labelColor=black&logo=CSharp&logoColor=239120)][link] 
+[![CSHARP](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)][link] 
 
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&labelColor=white&logo=github&logoColor=100000)][link]
 
