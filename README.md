@@ -8,16 +8,7 @@
 
 ### Linguagens e ferramentas (aprendendo):
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][link]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][link]
-
-[![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link]
-
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][link]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][link]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />][link]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][link]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][link]
+[![VSCODE](https://img.shields.io/badge/VsCode-0078D4?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=0078D4)][link] [![HTML](https://img.shields.io/badge/-HTML-D87C0D?style=for-the-badge&labelColor=black&logo=html5&logoColor=D87C0D)][link] [![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link] [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=CC6699&logo=sass&logoColor=CC6699)][link] [![EcmaJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)][link] [![JAVA](https://img.shields.io/badge/Java-EE160B?style=for-the-badge&labelColor=black&logo=java&logoColor=EE160B)][link] [![AnsiC](https://img.shields.io/badge/Ansi C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)][link] [![CSHARP](https://img.shields.io/badge/CSharp%23-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120][link] [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&labelColor=black&logo=github&logoColor=100000)][link]
 
 <br/>
 
@@ -41,4 +32,4 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
 [link]: https://github.com/dansf?tab=repositories
-[email]: <a href"https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSPFdNCTmjmvlTDzxLvvBHqRNbLqJJXvCfCdhdmKQkSGCsqSTzrxQbngtMMBsMvnDrLMlQrV" target="_blank"></a>
+[email]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSPFdNCTmjmvlTDzxLvvBHqRNbLqJJXvCfCdhdmKQkSGCsqSTzrxQbngtMMBsMvnDrLMlQrV
