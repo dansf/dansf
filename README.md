@@ -42,4 +42,4 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
 [link]: https://github.com/dansf?tab=repositories
-[email]: <mailto:dansf.3009@gmail.com">
+[email]: <a href="mailto:dansf.3009@gmail.com"></a>
