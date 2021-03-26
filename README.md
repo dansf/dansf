@@ -24,7 +24,7 @@
 ### Fale comigo:
 [![linkedin](https://img.shields.io/badge/-LinkedIn-33BBFF?style=for-the-badge&labelColor=black&logo=LinkedIn&logoColor=33BBFF)][linkedin]
 
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335")][<a href="mailto:dansf.3009@gmail.com" target="_blank"></a>]
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335")](mailto:dansf.3009@gmail.com)
 <br/>
 <br/>
 
@@ -37,7 +37,7 @@
 <img align="left" alt="dansf GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dansf&show_icons=true&hide_border=true" />
 
 <a href="https://github.com/dansf">
-    <img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=dansf&hide=C&exclude_repo=Kernel,dragontc,Whyred&langs_count=6&layout=compact" />
+    <img align="center" src="https://readme-stats.jugalkishore.me/api/top-langs/?username=dansf&hide=C&exclude_repo=Kernel,dragontc,Whyred&langs_count=6&layout=compact"/>
 </a>
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
