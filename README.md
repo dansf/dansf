@@ -1,6 +1,6 @@
 ### Olá, sou Daniel 👋
 
-## Sou aprendiz, Desenvolvedor, e apaixonado por tecnologia!!
+## Sou Aprendiz e Desenvolvedor
 
 - 🌱 Estou sempre aprendendo
 - 🖖 Quero colaborar ao máximo de projetos que eu puder, apesar de ser iniciante 🤓
