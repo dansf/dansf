@@ -20,7 +20,7 @@
 <br/>
 
 ### Fale comigo:
-[![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css&logoColor=0DA6D8)][link]
+[![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link]
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-33BBFF?style=for-the-badge&labelColor=black&logo=LinkedIn&logoColor=33BBFF")][linkedin]
 <br/>
