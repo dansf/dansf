@@ -41,4 +41,4 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
 [link]: https://github.com/dansf?tab=repositories
-[email]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSPFdNCTmjmvlTDzxLvvBHqRNbLqJJXvCfCdhdmKQkSGCsqSTzrxQbngtMMBsMvnDrLMlQrV
+[email]: <a href"https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSPFdNCTmjmvlTDzxLvvBHqRNbLqJJXvCfCdhdmKQkSGCsqSTzrxQbngtMMBsMvnDrLMlQrV" target="_blank"></a>
