@@ -20,9 +20,9 @@
 <br/>
 
 ### Fale comigo:
-[![HTML Badge](https://img.shields.io/badge/-CSS-0078B9?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=0078B9)][link]
+[![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css&logoColor=0DA6D8)][link]
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-33BBFF?style=for-the-badge&labelColor=black&logo=LinkedIn&logoColor=black")][linkedin]
+[![linkedin](https://img.shields.io/badge/-LinkedIn-33BBFF?style=for-the-badge&labelColor=black&logo=LinkedIn&logoColor=33BBFF")][linkedin]
 <br/>
 <br/>
 
