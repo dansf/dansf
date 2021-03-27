@@ -16,7 +16,7 @@
 <br/>
 
 ### Fale comigo:
-[![linkedin](https://img.shields.io/badge/-LinkedIn-33BBFF?style=for-the-badge&labelColor=black&logo=LinkedIn&logoColor=33BBFF)][linkedin] [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335")][email]
+[![linkedin](https://img.shields.io/badge/-LinkedIn-33BBFF?style=for-the-badge&labelColor=black&logo=LinkedIn&logoColor=33BBFF)][linkedin] [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335")][mailto:dansf.3009@gmail.com]
 
 <br/>
 <br/>
@@ -35,4 +35,4 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
 [link]: https://github.com/dansf?tab=repositories
-[email]: (mailto:dansf.3009@gmail.com)
+<!-- [email]: (mailto:dansf.3009@gmail.com) -->
