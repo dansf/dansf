@@ -5,6 +5,7 @@
 - 🌱 Estou sempre aprendendo
 - 🖖 Quero colaborar ao máximo de projetos que eu puder, apesar de ser iniciante 🤓
 - 🔥 2021 Objetivos: Aprender cada vez mais sobre programação e desenvolvimento Web
+- ✉️ Email: dansf.3009@gmail.com
 
 ### Linguagens e ferramentas:
 
