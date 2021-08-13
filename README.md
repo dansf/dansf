@@ -1,9 +1,9 @@
 ### Olá, sou Daniel 👋
 
-## Sou Aprendiz e Desenvolvedor
+#### Sou Aprendiz e Desenvolvedor
 
 - 🌱 Estou sempre aprendendo
-- 🖖 Quero colaborar ao máximo de projetos que eu puder, apesar de ser iniciante 🤓
+- 🖖 Quero colaborar ao máximo de projetos que eu puder, apesar de ser iniciante 
 - 🔥 2021 Objetivos: Aprender cada vez mais sobre programação e desenvolvimento Web
 - ✉️ Email: dansf.3009@gmail.com
 
@@ -21,9 +21,22 @@
 <br/>
 <br/>
 
-[![Dansf GitHub stats](https://github-readme-stats.vercel.app/api?username=dansf&show_icons=true&theme=tokyonight)][link]
+<div>
+    <a href="https://github.com/dansf?tab=repositories ">
+    	<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=dansf&show_icons=true&theme=tokyonight">
+        <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansf&layout=compact&theme=tokyonight">
+    </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dansf&layout=compact&theme=tokyonight)][link]
+---
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
+
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
 [link]: https://github.com/dansf?tab=repositories
