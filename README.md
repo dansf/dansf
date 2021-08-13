@@ -24,9 +24,10 @@
 <div>
     <a href="https://github.com/dansf?tab=repositories ">
     	<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=dansf&show_icons=true&theme=tokyonight">
-        <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansf&layout=compact&theme=tokyonight">
+        <img height="180em" width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansf&layout=compact&theme=tokyonight">
     </a>
 </div>
+
 
 ---
 
@@ -41,3 +42,4 @@
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
 [link]: https://github.com/dansf?tab=repositories
 [ email ]: (mailto:dansf.3009@gmail.com)
+
