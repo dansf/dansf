@@ -31,7 +31,9 @@
         <img height="180em" width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansf&layout=compact&theme=tokyonight">
     </a>
 </div>
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
 [link]: https://github.com/dansf?tab=repositories
