@@ -8,7 +8,7 @@
 
 - 🌱 Quero aprender o máximo que puder sobre TI
 - 🖖 Quero colaborar ao máximo de projetos que eu puder, apesar de ser iniciante 
-- 🔥 Criar diversos projetos de Back-end e GameDevelopment
+- 🔥 Criar diversos projetos de FullStack e GameDevelopment
 - ✉️ Email: dansf.3009@gmail.com
 
 ### Linguagens e ferramentas:
