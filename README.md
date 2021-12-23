@@ -1,40 +1,49 @@
 ### Hi, I'm Daniel
 
-#### Student and Front-end Developer
+####  Front-end and Game Developer
 
 <h5>
-    Objetivos:
+    Goals:
 </h5>
 
-
-- 🌱 I want to know many thing as possible about Front-end tools.
-- 🖖 Make some games just for fun and maybe I become a Game Dev. some day.
-- 🔥 Maximize my skills of Front-end, Game Dev and <span style="font-size: 10pt">Back-end as well</span>.
+- 🖖 I will become a Game Developer.
+- 🌱 Learn Front-end and Mobile skills for marketing and occasionally some jobs.
+- 🔥 Make my Dream Game.
 - ✉️ Email: dansf.3009@gmail.com
 
-### Languages and Tools:
+### GameDev Tools
+[![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)][link] [![CSHARP](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)][link]
 
-[![HTML](https://img.shields.io/badge/-HTML-fd822b?style=for-the-badge&labelColor=black&logo=html5&logoColor=fd822b)][link] [![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link] [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)][link] [![EcmaJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)][link] [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=black&logoColor=007ACC)][link] [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)][link] <br/><br/>[![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoSize=300px&logoColor=777BB4)][link] [![MYSQL](https://img.shields.io/badge/MySQL-373e9a?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)][link] [![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&labelColor=white&logo=unity&logoColor=black)][link] [![CSHARP](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)][link] [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)][link]
+#### Mobile
+[![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B
+)][link]
 
-<br/>
+#### Web Tools
+[![HTML](https://img.shields.io/badge/-HTML-fd822b?style=for-the-badge&labelColor=black&logo=html5&logoColor=fd822b)][link] [![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link] [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)][link] [![EcmaJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)][link] <br>[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=black&logoColor=007ACC)][link] [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)][link]
 
-### Contact me:
+##### Contact me:
 [![linkedin](https://img.shields.io/badge/-LinkedIn-33BBFF?style=for-the-badge&labelColor=black&logo=LinkedIn&logoColor=33BBFF)][linkedin] [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335")][email]
 
-<br/>
-<br/>
+### Last Project
+#### To The Moon
+*"We will reach the moon. Now or tomorrow, but someday **We will!**"* - Space Ship Pilot
 
+
+
+[![ToTeMoon_FirstTrailer](https://user-images.githubusercontent.com/63010902/147281503-949fdef0-c583-4da3-84ca-5bcb3e6345c0.gif)][video]
+
+
+
+<br/>
+<br/>
 <div>
     <a href="https://github.com/dansf?tab=repositories ">
     	<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=dansf&show_icons=true&theme=tokyonight">
         <img height="180em" width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansf&layout=compact&theme=tokyonight">
     </a>
 </div>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 [linkedin]: https://www.linkedin.com/in/daniel-silva-6a56b070/
 [link]: https://github.com/dansf?tab=repositories
-[ email ]: (mailto:dansf.3009@gmail.com)
-
+[email]: (mailto:dansf.3009@gmail.com)
+[video]: https://user-images.githubusercontent.com/63010902/147283928-ea2821a1-1847-4a81-b4ec-01eb42d1a2f8.mp4
