@@ -12,12 +12,15 @@
 - ✉️ Email: dansf.3009@gmail.com
 
 ### Last Project
-#### [Coffee](https://github.com/dansf?tab=repositories)
+#### [Donut Shop][localLink]
 
-[![Coffee app](https://github.com/dansf?tab=repositories)][video]
+[![DonutShop](https://user-images.githubusercontent.com/63010902/154169408-002c601d-0616-4ad8-ba10-1ef0a5651cb2.gif)][localLink]
 
+#### Words from the manager
+*"Buy a donut. Add sweetness in life, it wont make you healthy but tastes goooooood! 👌" ~ The Manager*
 
 ### Mobile
+[![DART](https://img.shields.io/badge/Dart-00A7BA?style=for-the-badge&labelColor=black&logo=dart&logoColor=00A7BA)][link]
 [![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)][link]
 
 ### Web Tools
@@ -41,3 +44,5 @@
 [link]: https://github.com/dansf?tab=repositories
 [email]: (mailto:dansf.3009@gmail.com)
 [video]: https://user-images.githubusercontent.com/63010902/147283928-ea2821a1-1847-4a81-b4ec-01eb42d1a2f8.mp4
+<!-- Always change the local link -->
+[localLink]: https://github.com/dansf/Flutter--DonutShop
