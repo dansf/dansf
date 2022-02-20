@@ -47,9 +47,11 @@
 </div>
 <br/>
 
-<a href="https://github.com/dansf/Flutter--DonutShop" target="_blank">
-  <h3 align="center">Last Project</h3>
-</a>
+<h3 align="center">
+  <a href="https://github.com/dansf/Flutter--DonutShop" target="_blank">
+    Last Project
+  </a>
+</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/63010902/154169408-002c601d-0616-4ad8-ba10-1ef0a5651cb2.gif" alt="Coffee gif"/>
