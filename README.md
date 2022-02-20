@@ -47,7 +47,7 @@
 </div>
 <br/>
 
-<a href="https://github.com/dansf/Flutter--DonutShop">
+<a href="https://github.com/dansf/Flutter--DonutShop" target="_blank">
   <h3 align="center">Last Project</h3>
 </a>
 
