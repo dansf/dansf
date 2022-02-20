@@ -57,7 +57,7 @@
   <img src="https://user-images.githubusercontent.com/63010902/154169408-002c601d-0616-4ad8-ba10-1ef0a5651cb2.gif" alt="Coffee gif"/>
 </div>
 
-<h4 align="center">Words from the manager</h4>
+<h4 align="center">Words from the Donut Manager</h4>
   <p align="center">
     <i>
       "Buy a donut. Add sweetness in life, it wont make you healthy but tastes goooooood! 👌" ~ The Manager
