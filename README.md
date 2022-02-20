@@ -1,9 +1,9 @@
 <h2 align="center">Hi, I'm Daniel - Front-end and Flutter Developer</h2>
 
-<div>
+<div align="center">
     <a href="https://github.com/dansf?tab=repositories ">
-    	<img height="200rem" width="500rem" src="https://github-readme-stats.vercel.app/api?username=dansf&show_icons=true&theme=tokyonight">
-        <img height="200rem" width="385rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansf&layout=compact&theme=tokyonight">
+    	<img height="200rem" width="450rem" src="https://github-readme-stats.vercel.app/api?username=dansf&show_icons=true&theme=tokyonight">
+        <img height="200rem" width="350rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansf&layout=compact&theme=tokyonight">
     </a>
 </div>
 
