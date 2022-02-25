@@ -54,13 +54,13 @@
 </h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/63010902/154169408-002c601d-0616-4ad8-ba10-1ef0a5651cb2.gif" alt="Coffee gif"/>
+  <img src="https://user-images.githubusercontent.com/63010902/155803559-ea7ae6f5-328f-48fc-8545-28e2f83ca466.png" alt="Coffee gif"/>
 </div>
 
-<h4 align="center">Words from the Donut Manager</h4>
+<h4 align="center">My Portfolio</h4>
   <p align="center">
     <i>
-      "Buy a donut. Add sweetness in life, it wont make you healthy but tastes goooooood! 👌" ~ The Manager
+      Still in production!
     </i>
   </p>
 
