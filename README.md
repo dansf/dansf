@@ -9,15 +9,16 @@
 
 <div align="center"></br>
   <a href="https://github.com/dansf?tab=repositories" target="_blank" align="center">
-    <img align="center" alt="Dansf-Dart" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-    <img align="center" alt="Dansf-Flutter" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+    <!-- <img align="center" alt="Dansf-Dart" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"> 
+    <img align="center" alt="Dansf-Flutter" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"> -->
+    <img align="center" alt="Dansf-Vlang" height="35" width="40" src="https://user-images.githubusercontent.com/63010902/165145796-45598ebb-17f5-464b-b63d-c58e4c67c2ec.svg">
     <img align="center" alt="Dansf-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Dansf-Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Dansf-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <!-- <img align="center" alt="Dansf-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
     <img align="center" alt="Dansf-Html" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Dansf-Css" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Dansf-Sass" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <!--<img align="center" alt="Dansf-Unity" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">-->
+    <!-- <img align="center" alt="Dansf-Unity" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"> -->
   </a>
 </div>
 
