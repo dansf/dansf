@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Daniel - Front-end and Flutter Developer</h2>
+<h2 align="center">Hi, I'm Daniel - Front-end and GameDev</h2>
 
 <div align="center">
     <a href="https://github.com/dansf?tab=repositories ">
@@ -49,19 +49,19 @@
 <br/>
 
 <h3 align="center">
-  <a href="https://github.com/dansf/Flutter--DonutShop" target="_blank">
+  <a href="https://github.com/dansf/Web--ReviewsPage" target="_blank">
     Last Project
   </a>
 </h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/63010902/155803559-ea7ae6f5-328f-48fc-8545-28e2f83ca466.png" alt="Coffee gif"/>
+  <img src="https://user-images.githubusercontent.com/63010902/165524624-b8fc0a0c-8e36-4825-9b21-0b93267dad3f.png" alt="Js Project"/>
 </div>
 
-<h4 align="center">My Portfolio</h4>
+<h4 align="center">Just for practice</h4>
   <p align="center">
     <i>
-      Still in production!
+      Learning Js!
     </i>
   </p>
 
