@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Daniel - Front-end and GameDev</h2>
+<h2 align="center">I'm Daniel - Front-end | Flutter | Game Developer</h2>
 
 <div align="center">
     <a href="https://github.com/dansf?tab=repositories ">
@@ -9,27 +9,18 @@
 
 <div align="center"></br>
   <a href="https://github.com/dansf?tab=repositories" target="_blank" align="center">
-    <!-- <img align="center" alt="Dansf-Dart" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"> 
-    <img align="center" alt="Dansf-Flutter" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"> -->
-    <img align="center" alt="Dansf-Vlang" height="35" width="40" src="https://user-images.githubusercontent.com/63010902/165145796-45598ebb-17f5-464b-b63d-c58e4c67c2ec.svg">
+    <!--<img align="center" alt="Dansf-Vlang" height="35" width="40" src="https://user-images.githubusercontent.com/63010902/165145796-45598ebb-17f5-464b-b63d-c58e4c67c2ec.svg"> -->
     <img align="center" alt="Dansf-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Dansf-Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <!-- <img align="center" alt="Dansf-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
     <img align="center" alt="Dansf-Html" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Dansf-Css" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Dansf-Sass" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" alt="Dansf-Dart" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"> 
+    <img align="center" alt="Dansf-Flutter" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
     <!-- <img align="center" alt="Dansf-Unity" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"> -->
   </a>
 </div>
-
-<!--
-[![DART](https://img.shields.io/badge/Dart-00A7BA?style=for-the-badge&labelColor=black&logo=dart&logoColor=00A7BA)][link]
-[![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)][link]
-[![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)][link] [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=black&logoColor=007ACC)][link] 
-[![HTML](https://img.shields.io/badge/-HTML-fd822b?style=for-the-badge&labelColor=black&logo=html5&logoColor=fd822b)][link] [![CSS](https://img.shields.io/badge/-CSS-0DA6D8?style=for-the-badge&labelColor=black&logo=css3&logoColor=0DA6D8)][link] [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)][link] [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)][link]
-
-##### GameDev Tools
-[![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)][link] [![CSHARP](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)][link] -->
 
 <hr>
 
@@ -49,19 +40,22 @@
 <br/>
 
 <h3 align="center">
-  <a href="https://github.com/dansf/Web--ReviewsPage" target="_blank">
+  <a href="https://github.com/dansf/Web--OrientacaoParental" target="_blank">
     Last Project
   </a>
 </h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/63010902/165524624-b8fc0a0c-8e36-4825-9b21-0b93267dad3f.png" alt="Js Project"/>
+  <img src="https://user-images.githubusercontent.com/63010902/172479084-0e3a0d29-1f74-4406-a2ea-87099f3235c8.png" alt="LastProject"/>
 </div>
 
-<h4 align="center">Just for practice</h4>
+<h4 align="center">
+  <a href="https://github.com/dansf/Web--OrientacaoParental" target="_blank">
+    Orientação Parental
+  </a>
+</h4>
   <p align="center">
     <i>
-      Learning Js!
     </i>
   </p>
 
