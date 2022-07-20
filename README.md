@@ -40,7 +40,7 @@
 <br/>
 
 <h3 align="center">
-  <a href="https://github.com/dansf/Web--OrientacaoParental" target="_blank">
+  <a href="https://github.com/dansf/Web--PortfolioThais" target="_blank">
     Last Project
   </a>
 </h3>
