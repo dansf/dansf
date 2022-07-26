@@ -46,9 +46,8 @@
 </h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/63010902/180068419-55da012e-26e6-4d19-b199-0a38092a22c2.png" alt="LastProject"/>
-<h4>Mobile 👇</h4>
-  <img width="300" src="https://user-images.githubusercontent.com/63010902/180067178-0abd12f2-f1b4-4802-a42a-9dbade35ef1c.png" alt="LastProject"/>
+  <img width="800" src="https://user-images.githubusercontent.com/63010902/180068419-55da012e-26e6-4d19-b199-0a38092a22c2.png" alt="LastProject"/>
+  <img width="850" src="https://user-images.githubusercontent.com/63010902/181091337-6b066117-25f8-4040-8613-c713959963de.png" alt="LastProject"/>
 </div>
 
 <h4 align="center">
